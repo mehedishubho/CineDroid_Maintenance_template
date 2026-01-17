@@ -1,30 +1,107 @@
-# Maintenance Page for CineDroid
+# CineDroid_Maintenance_template
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mehedi-hassan-shubhos-projects/v0-maintenance-page-for-cine-droid)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/gra6VavTqWt)
+![GitHub stars](https://img.shields.io/github/stars/mehedishubho/CineDroid_Maintenance_template?style=flat-square) ![Language](https://img.shields.io/badge/language-TypeScript-blue?style=flat-square) ![Framework](https://img.shields.io/badge/framework-Next.js-green?style=flat-square)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+CineDroid_Maintenance_template is a TypeScript project.
 
-## Deployment
+This project is built with Next.js and styled with Tailwind CSS.
 
-Your project is live at:
+## Features
 
-**[https://vercel.com/mehedi-hassan-shubhos-projects/v0-maintenance-page-for-cine-droid](https://vercel.com/mehedi-hassan-shubhos-projects/v0-maintenance-page-for-cine-droid)**
+- Built with Next.js for optimal performance
+- Modern styling with Tailwind CSS
+- Rich ecosystem of production-ready dependencies
+- Easy development setup
 
-## Build your app
+## Installation
 
-Continue building your app on:
+```bash
+# Clone the repository
+git clone https://github.com/mehedishubho/CineDroid_Maintenance_template.git
+cd CineDroid_Maintenance_template
 
-**[https://v0.dev/chat/projects/gra6VavTqWt](https://v0.dev/chat/projects/gra6VavTqWt)**
+# Install dependencies
+npm install
+```
 
-## How It Works
+## Usage
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### Development
+
+```bash
+npm run dev
+```
+
+### Start
+
+```bash
+npm start
+```
+
+### Build
+
+```bash
+npm run build
+```
+
+## Scripts
+
+| Command | Description |
+|---------|-------------|
+| `npm run build` | Build for production |
+| `npm run dev` | Start development server |
+| `npm run lint` | Run linter |
+| `npm run start` | Start the application |
+
+
+## Tech Stack
+
+- **Language:** TypeScript
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+
+### Key Dependencies
+
+- `@hookform/resolvers`
+- `@radix-ui/react-accordion`
+- `@radix-ui/react-alert-dialog`
+- `@radix-ui/react-aspect-ratio`
+- `@radix-ui/react-avatar`
+- `@radix-ui/react-checkbox`
+- `@radix-ui/react-collapsible`
+- `@radix-ui/react-context-menu`
+
+## Project Structure
+
+```
+├── app/
+├── components/
+  ├── ui/
+├── hooks/
+├── lib/
+├── public/
+  ├── images/
+├── styles/
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+See the [open issues](https://github.com/mehedishubho/CineDroid_Maintenance_template/issues) for a list of proposed features and known issues.
+
+## License
+
+This project is licensed under an unspecified license. Please check the repository for more information.
+
+---
+
+*Generated with [GitRooms](https://github.com) - AI-powered README generator*
